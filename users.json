@@ -1,0 +1,31 @@
+[
+  {
+    "username": "sundaram",
+    "password": "123456",
+    "cpassword": "123456",
+    "firstname": "sundaram",
+    "lastname": "k"
+  },
+  {
+    "username": "thiru",
+    "password": "123456",
+    "cpassword": "123456",
+    "firstname": "thiru",
+    "lastname": "s"
+  },
+  {
+    "username": "arun",
+    "password": "qwerty",
+    "cpassword": "qwerty",
+    "firstname": "arun",
+    "lastname": "kumar"
+  },
+  {
+    "username": "venkat",
+    "password": "123456",
+    "cpassword": "123456",
+    "firstname": "venkat",
+    "lastname": "sundar",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdG5hbWUiOiJ2ZW5rYXQiLCJwYXNzd29yZCI6IjEyMzQ1NiIsImlhdCI6MTcwNTkwMDY2MCwiZXhwIjoxNzA4NDkyNjYwfQ.tGbqOZ8TccNLDfRbOYuBhedwXmhh1y02tIkVA2wd5eM"
+  }
+]
